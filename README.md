@@ -18,7 +18,9 @@ The task is to implement a small Facebook-powered web app. The goal of the app i
 * Backend 
   * Node.js  
 
-* How to use the app 
+## How to use the app 
+
+* In order to use the application, you can follow the steps bellow:
   * Clone the project
   * Install dependecies (rum from cmd: npm install)
   * Lunch mongodb from your localhost
