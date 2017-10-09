@@ -20,11 +20,10 @@ The task is to implement a small Facebook-powered web app. The goal of the app i
 
 ## How to use the app 
 
-* In order to use the application, you can follow the steps bellow:
-  * Clone the project
-  * Install dependecies (rum from cmd: npm install)
-  * Lunch mongodb from your localhost
-  * Run the npm script: npm run build (to compile es6 files using webpack)
-  * Run the npm script: npm run start
-  * Go to http://localhost:3000
-  * Enjoy...
+1. Clone the project
+2. Install dependecies (rum from cmd: npm install)
+3. Lunch mongodb from your localhost
+4. Run the npm script: npm run build (to compile es6 files using webpack)
+5. Run the npm script: npm run start
+6. Go to http://localhost:3000
+7. Enjoy...
